@@ -105,3 +105,9 @@ pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook loan_pj.ipynb
+
+## Author
+
+Name : [Alirezasmoradi](https://github.com/Alirezasmoradi)
+
+LinkedIn : [Alireza Soltan Moradi](www.linkedin.com/in/alirezasoltanmoradi) 
